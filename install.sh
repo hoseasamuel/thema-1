@@ -388,7 +388,7 @@ hackback_panel() {
   echo -e "                                                       "
   # Minta input dari pengguna
 read -p "Masukkan Username Panel: " user
-read -p "password login " psswd
+read -p "password login " psswdhb
   #!/bin/bash
 cd /var/www/pterodactyl || { echo "Direktori tidak ditemukan"; exit 1; }
 
@@ -399,7 +399,7 @@ hackback@gmail.com
 $user
 $user
 $user
-$psswd
+$psswdhb
 EOF
   echo -e "                                                       "
   echo -e "${GREEN}[+] =============================================== [+]${NC}"
