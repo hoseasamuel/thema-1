@@ -365,9 +365,9 @@ configure_wings() {
   #!/bin/bash
 
 # Minta input token dari pengguna
-read -p "Masukkan token Configure menjalankan wings: " wings
+read -p "Masukkan token Configure menjalankan wings: " tokenwings
 
-eval "$wings"
+eval "$tokenwings"
 # Menjalankan perintah systemctl start wings
 sudo systemctl start wings
 
