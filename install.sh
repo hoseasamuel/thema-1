@@ -426,7 +426,7 @@ while true; do
   echo -e "${RED}'ggg'     ,gg''''  .    ggg       Auto Installer Fadhost  ${NC}"
   echo -e "${RED}gggg      g'g     ,    ggg       ------------------------ ${NC}"
   echo -e "${RED}ggg:     gg.     -   ,ggg'       • Telegram : fadhost     ${NC}"
-  echo -e "${RED} ggg;     ggg._    _,ggg'        • Creadit  : FADHOSTOFFC ${NC}"
+  echo -e "${RED} ggg:     ggg._    _,ggg'        • Creadit  : FADHOSTOFFC ${NC}"
   echo -e "${RED} ggg.    '.'''gggggg''           • Support by FadhostOffc ${NC}"
   echo -e "${RED}  'ggg   ''-.__                                           ${NC}"
   echo -e "${RED}   'ggg                                                   ${NC}"
