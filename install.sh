@@ -418,7 +418,7 @@ check_token
 while true; do
   clear
   echo -e "                                                                     "
-  echo -e "${RED}        _,met$$$$$gg.                                     ${NC}"
+  echo -e "${RED}        _,met#####gg.                                     ${NC}"
   echo -e "${RED}    ,g$$$$$$$$$$$$$$$P.                                   ${NC}"
   echo -e "${RED}  ,g$$P"        $$$Y$$.".                                 ${NC}"
   echo -e "${RED} ,$$P'               '$$$.                                ${NC}"
