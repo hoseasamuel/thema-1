@@ -420,7 +420,7 @@ while true; do
   echo -e "                                                                     "
   echo -e "${RED}        _,gggggggggg.                                     ${NC}"
   echo -e "${RED}    ,ggggggggggggggggg.                                   ${NC}"
-  echo -e "${RED}  ,ggggg        ggggggg".                                 ${NC}"
+  echo -e "${RED}  ,ggggg        gggggggg.                                 ${NC}"
   echo -e "${RED} ,ggg'               'ggg.                                ${NC}"
   echo -e "${RED}',gg       ,ggg.      'ggg:                               ${NC}"
   echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer Fadhost   ${NC}"
