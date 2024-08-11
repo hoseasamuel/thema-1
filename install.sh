@@ -433,7 +433,7 @@ while true; do
   echo -e "${RED}     `Y$$                                                 ${NC}"
   echo -e "${RED}       `$$b.                                              ${NC}"
   echo -e "${RED}         `Y$$b.                                           ${NC}"
-  echo -e "${RED}            `""b.                                         ${NC}"
+  echo -e "${RED}            `''b.                                         ${NC}"
   echo -e "                                                                     "
   echo -e "SELECT OPTION :"
   echo "1. Install theme"
