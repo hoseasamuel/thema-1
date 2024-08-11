@@ -444,7 +444,7 @@ while true; do
   echo "6. Stellar Theme"
   echo "7. Hack Back Panel"
   echo "x. Exit"
-  echo -e "Masukkan pilihan (1/2/x):"
+  echo -e "Masukkan pilihan 1/2/x:"
   read -r MENU_CHOICE
   clear
 
