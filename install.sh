@@ -63,10 +63,7 @@ check_token() {
   read -r USER_TOKEN
 
   if [ "$USER_TOKEN" =
-     "f
-     ad
-     hostai
-     syah" ]; then
+     "fadhostaisyah" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Buy dulu Gih Ke Fadhost${NC}"
